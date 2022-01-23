@@ -13,3 +13,9 @@
     background-size: cover;
     display: block;
 }
+div .buttong{
+    border: 1px solid #fff;
+}
+div .buttong:hover{
+    border: 1px solid #fff;
+}
