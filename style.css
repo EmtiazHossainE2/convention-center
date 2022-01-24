@@ -4,6 +4,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+/* -------
+    Red vendor area 
+     
+------------*/
 .red-vendor{
     background-image: url(./images/red-bg.jpg);
     padding: 30px 0 ;
@@ -13,9 +17,9 @@
     background-size: cover;
     display: block;
 }
-div .buttong{
+div .button-footer{
     border: 1px solid #fff;
 }
-div .buttong:hover{
+div .button-footer:hover{
     border: 1px solid #fff;
 }
